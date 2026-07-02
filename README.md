@@ -40,3 +40,4 @@ Enhanced visibility into customer behavior and payment modes
 Forecasted revenue trends to support strategic decision-making
 Improved operational efficiency by highlighting shipping and logistics performance gaps
 Provided leadership with data-driven insights for future planning
+<img width="886" height="497" alt="Snapshot of SADB 1" src="https://github.com/user-attachments/assets/d8ec90ec-c1d6-459d-99ae-4ef9ac3b8c3e" />
