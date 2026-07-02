@@ -1,29 +1,40 @@
 # Sales-Analysis
+
 Sales Analytics & Revenue Forecast Dashboard 📊
+
 📌 Project Purpose
+
 This dashboard provides end-to-end sales performance insights and enables forecasting of future revenue and profitability trends.
 It helps business leaders track KPIs, monitor customer and regional performance, and make data-driven strategic decisions.
 
 🛠️ Tech Stack
+
 Power BI – Dashboard development & data visualization
 Excel – Data cleaning & transformation
 DAX – KPI calculations & drilldowns
 Time Series Forecasting – Revenue & profit trend analysis
+
 🚀 Features & Highlights
+
 🔹 Business Problem
+
 Organizations often lack a consolidated view of sales performance across regions, categories, customers, and logistics, making it difficult to identify growth opportunities and optimize operations.
 
 🔹 Goal of the Dashboard
+
 To deliver a centralized analytics solution that provides visibility into sales drivers, profitability, and customer segments, while forecasting revenue trends to support strategic planning.
 
 🔹 Walkthrough of Key Visuals
+
 KPIs & Cards: Revenue, profit, orders, shipping performance
 Regional Analysis: Sales trends by geography
 Category & Customer Segments: Performance breakdown across product categories and customer groups
 Logistics & Shipping: Delivery performance and shipping costs
 Revenue Forecasting: Time series forecasting (2019–2020) to project revenue and profit trends
 Dynamic Visuals: Donut charts, area charts, filters, and drilldowns for interactive exploration
+
 🔹 Business Impact & Insights
+
 Identified top-performing regions and categories driving revenue
 Enhanced visibility into customer behavior and payment modes
 Forecasted revenue trends to support strategic decision-making
